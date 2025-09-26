@@ -1,0 +1,6 @@
+Cipher Methods
+
+Ceaser Cipher - Based on character shifts
+Rot13 - Based on fixed 13 character shifts
+Base64 - Based on converting binary data into text based format using a 64-character 
+        alphabet to represent binary data
