@@ -5,7 +5,6 @@ Handle diverse inputs, validate data, and run multiple algorithms in real time.
 Provide instant feedback: live character count, error alerts, confirmation messages.
 Must work on different browsers and screen sizes.
 Goal: a lightweight, cross-platform web app that makes classical encryption interactive and educational.
-Simple ciphers, but secure client-side tool needs careful design.
 
 # Project Objective
 Intuitive UI: Design a clean, responsive interface using HTML and Bootstrap that adapts to desktop and mobile screens.
